@@ -80,7 +80,7 @@
         "@vector-im/compound-design-tokens": "^1.6.1",
         "@vector-im/compound-web": "^5.5.0",
         "jsrsasign": "^11.0.0",
-        "katex": "^0.16.0",
+        "katex": "^0.16.21",
         "lodash": "^4.17.21",
         "matrix-js-sdk": "github:matrix-org/matrix-js-sdk#develop",
         "matrix-react-sdk": "github:matrix-org/matrix-react-sdk#develop",
